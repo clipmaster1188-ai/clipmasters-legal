@@ -1,2 +1,3 @@
-# clipmasters-legal
-legal documents for ClipMaster
+# Clipmasters
+
+[Terms of Service](terms.md) | [Privacy Policy](privacy.md)
