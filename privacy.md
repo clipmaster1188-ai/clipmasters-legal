@@ -31,4 +31,3 @@ We may update this policy. Changes will be posted on this page.
 
 For privacy questions, contact: clipmaster1188@gmail.com
 
-tiktok-developers-site-verification=Iec2z0Y96XYDyyraZm2EUTzTQnT056Cx
